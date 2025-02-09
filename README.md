@@ -6,6 +6,3 @@
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I love automating tasks to make life easier!**  
 
-kamesh-281104/kamesh-281104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
